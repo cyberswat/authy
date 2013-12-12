@@ -1,6 +1,6 @@
 Authy Cookbook
 =================
-This is the beginning of an opscode chef cookbook for authy integration resulting in two factor ssh authentication.
+This is the beginning of an opscode chef cookbook for authy integration resulting in two factor ssh authentication. It does not work yet.
 
 Testing
 -------
